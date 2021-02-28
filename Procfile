@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser recherche_metier_2020.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True recherche_metier_2020.ipynb
