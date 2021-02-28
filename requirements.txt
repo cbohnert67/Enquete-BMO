@@ -2,7 +2,7 @@
 
 ipyvolume==0.5.2
 ipywebrtc==0.5.0
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1601490159889/work
+
 Jinja2==2.11.2
 
 jupyter==1.0.0
