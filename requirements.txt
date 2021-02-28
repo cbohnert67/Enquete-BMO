@@ -1,14 +1,10 @@
-ipydatawidgets==4.2.0
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1604083276484/work
-ipython-genutils==0.2.0
+
+
 ipyvolume==0.5.2
 ipywebrtc==0.5.0
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1601490159889/work
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
-json5==0.9.5
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+
 jupyter==1.0.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
 jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
