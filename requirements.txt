@@ -6,32 +6,24 @@ ipywebrtc==0.5.0
 Jinja2==2.11.2
 
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
+
 jupyter-core==4.6.3
 jupyter-server==1.2.2
 jupyterlab==2.2.6
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+
 jupyterlab-widgets==1.0.0
-matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
 
 
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
-
-pandas @ file:///C:/ci/pandas_1602083338010/work
 
 
 pythreejs==2.3.0
 
-scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
-scipy @ file:///C:/ci/scipy_1604596260408/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+
 
 sklearn==0.0
 
 statsmodels==0.12.0
-sympy @ file:///C:/ci/sympy_1605101511098/work
+
 tables==3.6.1
 tabulate==0.8.9
 
